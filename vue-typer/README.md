@@ -1,6 +1,6 @@
 # vue-typer
 
-> This is a typer achieve by Vue.js
+> 用Vue.js实现的打字机效果,虽然很简单,希望有朝一日变成一个完整的插件！
 
 ## Build Setup
 
